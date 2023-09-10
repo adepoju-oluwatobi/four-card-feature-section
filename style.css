@@ -74,8 +74,9 @@ section.five{
 
 @media (min-width: 768px){
     .wrapper{
+        margin-top: 20px;
         display: flex;
-        gap: 20px;
+        gap: 30px;
     }
     section.two{
         width: 280px;
@@ -97,14 +98,15 @@ section.five{
     }
     section.one .content{
         width: 50%;
+        font-size: 16px;
         margin: auto;
     }
     section.one .heading{
         margin-top: 50px;
-        font-size: 32px;
+        font-size: 34px;
     }
     section.one .title{
-        font-size: 32px;
+        font-size: 34px;
         opacity: 70%;
     }
 }
