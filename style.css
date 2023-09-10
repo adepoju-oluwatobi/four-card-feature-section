@@ -84,21 +84,21 @@ section.five{
     }
     section.two{
         width: 280px;
-        height: fit-content;
-        margin-top: 15%;
+        height: 200px;
+        margin-top: 18%;
     }
     section.three{
         width: 280px;
-        height: fit-content;
+        height: 200px;
     }
     section.four{
         width: 280px;
-        height: fit-content;
+        height: 200px;
     }
     section.five{
         width: 280px;
-        height: fit-content;
-        margin-top: 15%;
+        height: 200px;
+        margin-top: 18%;
     }
     section.one .content{
         width: 50%;
