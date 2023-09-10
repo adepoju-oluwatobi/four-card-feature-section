@@ -11,7 +11,7 @@ body{
     align-items: center;
 }
 section{
-    margin-bottom: 20px;
+    margin: 20px auto;
     /* border: 1px solid black; */
     padding: 20px;
     width: 75%;
@@ -81,7 +81,6 @@ section.five{
     .wrapper2{
         display: flex;
         flex-direction: column;
-        gap: 20px;
     }
     section.two{
         width: 280px;
