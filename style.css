@@ -30,7 +30,7 @@ section .content{
     line-height: 25px;
 }
 section img{
-    margin-left: 200px;
+    margin-left: 70%;
     margin-top: 30px;
 }
 section.one{
@@ -85,7 +85,7 @@ section.five{
     section.two{
         width: 280px;
         height: fit-content;
-        margin-top: 12%;
+        margin-top: 15%;
     }
     section.three{
         width: 280px;
@@ -98,7 +98,7 @@ section.five{
     section.five{
         width: 280px;
         height: fit-content;
-        margin-top: 10%;
+        margin-top: 15%;
     }
     section.one .content{
         width: 50%;
